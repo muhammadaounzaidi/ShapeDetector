@@ -1,1 +1,1 @@
-# imageprocess
+# Shape Detector using OpenCV.
